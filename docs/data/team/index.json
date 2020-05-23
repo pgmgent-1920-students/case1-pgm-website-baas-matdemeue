@@ -1,0 +1,92 @@
+[
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/luk_bouters.png",
+        "fname": "Luk",
+        "lname": "Bouters",
+        "job": "Opleidingsdirecteur"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/claire_geeraerts.png",
+        "fname": "Claire",
+        "lname": "Geeraerts",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/dieter_de_weirdt.png",
+        "fname": "Dieter",
+        "lname": "De Weirdt",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/evelien_rutsaert.png",
+        "fname": "Evelien",
+        "lname": "Rutsaert",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/frederick_roegiers.png",
+        "fname": "Frederick",
+        "lname": "Roegiers",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/gudrun_herman.png",
+        "fname": "Gudrun",
+        "lname": "Herman",
+        "job": "STUVO- en Ombudsmedewerker"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/inge_de_canck.png",
+        "fname": "Inge",
+        "lname": "De Canck",
+        "job": "Leercoach"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/inge_sintobin.png",
+        "fname": "Inge",
+        "lname": "Sintobin",
+        "job": "Leercoach"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/katrien_vandemarcke.png",
+        "fname": "Katrien",
+        "lname": "Vandermarcke",
+        "job": "Leercoach / Diversiteitscoach"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/lennart_dubois.png",
+        "fname": "Lennart",
+        "lname": "Dubois",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/linda_bogaert.png",
+        "fname": "Linda",
+        "lname": "Bogaert",
+        "job": "Leercoach"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/maaike_callens.png",
+        "fname": "Maaike",
+        "lname": "Callens",
+        "job": "Verantwoordelijke onderwijs / Trajectbeheer"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/olivier_parent.png",
+        "fname": "Olivier",
+        "lname": "Parent",
+        "job": "Docent"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/philippe_depauw_waterschoot.png",
+        "fname": "Philippe",
+        "lname": "De Pauw-Waterschoot",
+        "job": "Docent / Verantwoordelijke Werkplekleren"
+    },
+    {
+        "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/team/pieter_vandaele.png",
+        "fname": "Pieter",
+        "lname": "Vandaele",
+        "job": "Opleidingscoördinator"
+    }
+]
