@@ -1,34 +1,42 @@
 [
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/adobeillustrator.svg",
-        "brand": "Adobe Illustrator"
+        "brand": "Adobe Illustrator",
+        "url": "https://www.adobe.com/be_nl/products/illustrator.html"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/css3.svg",
-        "brand": "CSS3"
+        "brand": "CSS3",
+        "url": "https://nl.wikipedia.org/wiki/Cascading_Style_Sheets"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/github.svg",
-        "brand": "Github"
+        "brand": "Github",
+        "url": "https://github.com/"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/adobexd.svg",
-        "brand": "Adobe Xd"
+        "brand": "Adobe Xd",
+        "url": "https://www.adobe.com/be_nl/products/xd.html"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/html5.svg",
-        "brand": "HTML5"
+        "brand": "HTML5",
+        "url": "https://nl.wikipedia.org/wiki/HTML5"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/adobephotoshop.svg",
-        "brand": "Adobe Photoshop"
+        "brand": "Adobe Photoshop",
+        "url": "https://www.adobe.com/be_nl/products/photoshop.html"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/visualstudiocode.svg",
-        "brand": "Visual Studio Code"
+        "brand": "Visual Studio Code",
+        "url": "https://code.visualstudio.com/"
     },
     {
         "img": "https://pgmgent-1920-students.github.io/case1-pgm-website-baas-matdemeue/static/technology/javascript.svg",
-        "brand": "JavaScript"
+        "brand": "JavaScript",
+        "url": "https://nl.wikipedia.org/wiki/JavaScript"
     }
 ]
